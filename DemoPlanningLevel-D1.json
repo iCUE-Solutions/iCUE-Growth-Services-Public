@@ -1,6 +1,6 @@
 {
   "planningLevelId": "DemoPlanningLevel-D1",
-  "startDate": "2/0/2018",
+  "startDate": "2/1/2018",
   "periodicity": 12,
   "holdOutPeriod": 4,
   "noFcst": 18,
