@@ -14,7 +14,8 @@ https://api.i-cue.solutions/portfolio/abc
 
     TOKEN
 
-```   {
+```   
+    {
         "planningLevelId": "PlanningLevel_XXX2T5",
         "startDate": "1/1/2018",
         "method": "AutoBestPick",
