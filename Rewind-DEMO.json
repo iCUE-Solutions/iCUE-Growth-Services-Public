@@ -2,7 +2,7 @@
 	"planningLevelId": "PlanningLevel_XXX2T5",
 	"startDate": "1/1/2018",
 	"rewindTimeFrame": 12,
-   "method": "iCUE1",
+	"method": "iCUE1",
 	"data": [
 		{
 			"timeSeriesId": "P1-D",
