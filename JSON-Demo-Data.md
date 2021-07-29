@@ -19,6 +19,7 @@ https://api.i-cue.solutions/portfolio/abc
         "planningLevelId": "PlanningLevel_XXX2T5",
         "startDate": "1/1/2018",
         "method": "AutoBestPick",
+        "override": false,
         "data": [
           {
             "timeSeriesId": "P1-D",
