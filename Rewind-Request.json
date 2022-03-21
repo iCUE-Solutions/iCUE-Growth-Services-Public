@@ -3,6 +3,7 @@
 	"startDate": "1/1/2018",
 	"rewindTimeFrame": 12,
 	"method": "iCUE1",
+	"costOfError": 200,
 	"data": [
 		{
 			"timeSeriesId": "P1-D",
